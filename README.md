@@ -46,7 +46,7 @@ This Weather App is built using **React Native** and fetches real-time weather d
 ---
 
 ## Concepts Used 💡
-- **API Calls**: Utilized `fetch` to get weather data from an external API.
+- **API Calls**: Utilized `axios` to get weather data from an external API.
 - **State Management**: Managed search input, weather data, and loading states using `useState`.
 - **Conditional Rendering**: Displayed loading indicators and error messages based on API response.
 - **Responsive Design**: Ensured the UI adapts to different screen sizes.
